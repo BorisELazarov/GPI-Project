@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|d:\\programming\\2201321005\\trunk\\cgproject\\visualstudio2008-winforms\\src\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\model\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\model\\groupshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\groupshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\model\\starshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\starshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\model\\polygonshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\polygonshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\model\\customlineshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\customlineshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\processors\\dialogprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\processors\\dialogprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\gui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\gui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\model\\rectangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\rectangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\model\\breziershape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\breziershape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\model\\elipseshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\elipseshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\model\\lineshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\lineshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\model\\hexagonshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\hexagonshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 153,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\Shape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\Shape.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\Shape.cs",
+              "RelativeToolTip": "src\\Model\\Shape.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAADgv9UAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:56:40.918Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RectangleShape.cs",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\RectangleShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\RectangleShape.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\RectangleShape.cs",
+              "RelativeToolTip": "src\\Model\\RectangleShape.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:41:07.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\GUI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "src\\GUI\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\GUI\\MainForm.Designer.cs",
+              "RelativeToolTip": "src\\GUI\\MainForm.Designer.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAADgv48AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:09:10.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DialogProcessor.cs",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Processors\\DialogProcessor.cs",
+              "RelativeDocumentMoniker": "src\\Processors\\DialogProcessor.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Processors\\DialogProcessor.cs",
+              "RelativeToolTip": "src\\Processors\\DialogProcessor.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAtwLwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:48:29.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ElipseShape.cs",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\ElipseShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\ElipseShape.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\ElipseShape.cs",
+              "RelativeToolTip": "src\\Model\\ElipseShape.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:39:52.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LineShape.cs",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\LineShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\LineShape.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\LineShape.cs",
+              "RelativeToolTip": "src\\Model\\LineShape.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:39:32.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomLineShape.cs",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\CustomLineShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\CustomLineShape.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\CustomLineShape.cs",
+              "RelativeToolTip": "src\\Model\\CustomLineShape.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwEAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:23:56.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupShape.cs",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\GroupShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\GroupShape.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\GroupShape.cs",
+              "RelativeToolTip": "src\\Model\\GroupShape.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAYwKcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:09:51.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrezierShape.cs",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\BrezierShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\BrezierShape.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\BrezierShape.cs",
+              "RelativeToolTip": "src\\Model\\BrezierShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:40:12.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HexagonShape.cs",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\HexagonShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\HexagonShape.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\HexagonShape.cs",
+              "RelativeToolTip": "src\\Model\\HexagonShape.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:23:29.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StarShape.cs",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\StarShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\StarShape.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\StarShape.cs",
+              "RelativeToolTip": "src\\Model\\StarShape.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:22:54.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PolygonShape.cs",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\PolygonShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\PolygonShape.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\Model\\PolygonShape.cs",
+              "RelativeToolTip": "src\\Model\\PolygonShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:03:30.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "src\\GUI\\MainForm.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\GUI\\MainForm.cs",
+              "RelativeToolTip": "src\\GUI\\MainForm.cs",
+              "ViewState": "AQIAAL0CAAAAAAAAAIAywM8CAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:37:38.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "src\\GUI\\MainForm.cs",
+              "ToolTip": "D:\\Programming\\2201321005\\trunk\\CGProject\\VisualStudio2008-WinForms\\src\\GUI\\MainForm.cs [Design]",
+              "RelativeToolTip": "src\\GUI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:23:18.997Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
